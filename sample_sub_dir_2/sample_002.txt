@@ -1,0 +1,2 @@
+This is sample text file for new repository 002.
+The repository will be left to current one.
